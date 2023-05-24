@@ -703,17 +703,17 @@
      <Reference Include="Unity.Rider.Editor">
      <HintPath>/Users/vincentklingemann/Development/Github/hsh/MelodyAR/Library/ScriptAssemblies/Unity.Rider.Editor.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.XR.ARSubsystems.Editor">
-     <HintPath>/Users/vincentklingemann/Development/Github/hsh/MelodyAR/Library/ScriptAssemblies/Unity.XR.ARSubsystems.Editor.dll</HintPath>
-     </Reference>
      <Reference Include="Unity.XR.OpenXR.Features.ConformanceAutomation">
      <HintPath>/Users/vincentklingemann/Development/Github/hsh/MelodyAR/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.ConformanceAutomation.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.XR.ARCore">
-     <HintPath>/Users/vincentklingemann/Development/Github/hsh/MelodyAR/Library/ScriptAssemblies/Unity.XR.ARCore.dll</HintPath>
+     <Reference Include="Unity.XR.ARSubsystems.Editor">
+     <HintPath>/Users/vincentklingemann/Development/Github/hsh/MelodyAR/Library/ScriptAssemblies/Unity.XR.ARSubsystems.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.XR.OpenXR.Features.OculusQuestSupport.Editor">
      <HintPath>/Users/vincentklingemann/Development/Github/hsh/MelodyAR/Library/ScriptAssemblies/Unity.XR.OpenXR.Features.OculusQuestSupport.Editor.dll</HintPath>
+     </Reference>
+     <Reference Include="Unity.XR.ARCore">
+     <HintPath>/Users/vincentklingemann/Development/Github/hsh/MelodyAR/Library/ScriptAssemblies/Unity.XR.ARCore.dll</HintPath>
      </Reference>
      <Reference Include="Unity.RenderPipelines.Core.Editor">
      <HintPath>/Users/vincentklingemann/Development/Github/hsh/MelodyAR/Library/ScriptAssemblies/Unity.RenderPipelines.Core.Editor.dll</HintPath>
@@ -724,8 +724,8 @@
      <Reference Include="Unity.Mathematics.Editor">
      <HintPath>/Users/vincentklingemann/Development/Github/hsh/MelodyAR/Library/ScriptAssemblies/Unity.Mathematics.Editor.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.XR.ARAnalytics.Editor">
-     <HintPath>/Users/vincentklingemann/Development/Github/hsh/MelodyAR/Library/ScriptAssemblies/Unity.XR.ARAnalytics.Editor.dll</HintPath>
+     <Reference Include="Unity.XR.ARKit.FaceTracking">
+     <HintPath>/Users/vincentklingemann/Development/Github/hsh/MelodyAR/Library/ScriptAssemblies/Unity.XR.ARKit.FaceTracking.dll</HintPath>
      </Reference>
      <Reference Include="Unity.XR.CoreUtils">
      <HintPath>/Users/vincentklingemann/Development/Github/hsh/MelodyAR/Library/ScriptAssemblies/Unity.XR.CoreUtils.dll</HintPath>
@@ -739,8 +739,8 @@
      <Reference Include="Unity.XR.OpenXR">
      <HintPath>/Users/vincentklingemann/Development/Github/hsh/MelodyAR/Library/ScriptAssemblies/Unity.XR.OpenXR.dll</HintPath>
      </Reference>
-     <Reference Include="Unity.XR.ARKit.FaceTracking">
-     <HintPath>/Users/vincentklingemann/Development/Github/hsh/MelodyAR/Library/ScriptAssemblies/Unity.XR.ARKit.FaceTracking.dll</HintPath>
+     <Reference Include="Unity.XR.ARAnalytics.Editor">
+     <HintPath>/Users/vincentklingemann/Development/Github/hsh/MelodyAR/Library/ScriptAssemblies/Unity.XR.ARAnalytics.Editor.dll</HintPath>
      </Reference>
      <Reference Include="Unity.XR.ARSubsystems">
      <HintPath>/Users/vincentklingemann/Development/Github/hsh/MelodyAR/Library/ScriptAssemblies/Unity.XR.ARSubsystems.dll</HintPath>
@@ -790,11 +790,11 @@
      <Reference Include="Unity.RenderPipelines.Universal.Runtime">
      <HintPath>/Users/vincentklingemann/Development/Github/hsh/MelodyAR/Library/ScriptAssemblies/Unity.RenderPipelines.Universal.Runtime.dll</HintPath>
      </Reference>
-     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
-     <HintPath>/Users/vincentklingemann/Development/Github/hsh/MelodyAR/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
-     </Reference>
      <Reference Include="Unity.Burst">
      <HintPath>/Users/vincentklingemann/Development/Github/hsh/MelodyAR/Library/ScriptAssemblies/Unity.Burst.dll</HintPath>
+     </Reference>
+     <Reference Include="UnityEngine.XR.LegacyInputHelpers">
+     <HintPath>/Users/vincentklingemann/Development/Github/hsh/MelodyAR/Library/ScriptAssemblies/UnityEngine.XR.LegacyInputHelpers.dll</HintPath>
      </Reference>
      <Reference Include="Unity.PlasticSCM.Editor">
      <HintPath>/Users/vincentklingemann/Development/Github/hsh/MelodyAR/Library/ScriptAssemblies/Unity.PlasticSCM.Editor.dll</HintPath>
